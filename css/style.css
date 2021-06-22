@@ -93,6 +93,12 @@
 	c/*olor: blue;
 	font-size: 22px;*/
 
+.smiley-fixed {
+	position: fixed;
+	right: 30px;
+	bottom: 50px;
+}	
+
 .test1::after {
 	content: '';
 	width: 1px;
